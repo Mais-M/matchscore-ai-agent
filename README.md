@@ -41,5 +41,6 @@ Use anonymized examples (remove phone, email, addresses, IDs).
 
 ## License
 Choose one if you want (e.g., MIT). If this is a course project, you can also keep it “All rights reserved”.
+This project demonstrates a general-purpose scoring & recommendation pipeline that can be adapted to matchmaking, player profiling, or content recommendations.
 ![Example Output](assets/output_example.png)
 
