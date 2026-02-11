@@ -6,7 +6,7 @@ MatchScore is an AI agent that compares a candidate’s CV with a Job Descriptio
 - **Actionable recommendations** for improving fit
 
 ## Demo
-- 🎥 Video demo (Google Drive): <PUT_YOUR_DRIVE_LINK_HERE>
+- 🎥 Video demo (Google Drive): https://drive.google.com/file/d/1lQfXs_NPcM24vrzjNgJuI0ELSf5v9kkt/view?usp=drive_link
 - 🤖 Agent link (ChatGPT): https://chatgpt.com/g/g-6973b0c982ec8191a540f05cd1d20737-matchscore
 
 ## What it does
@@ -21,13 +21,13 @@ MatchScore is an AI agent that compares a candidate’s CV with a Job Descriptio
 ## Key Features
 - ✅ **Structured scoring** (consistent evaluation)
 - ✅ **Gap analysis** (what’s missing + why it matters)
-- ✅ **Explainability** (reasoning + evidence-based output where applicable)
+- ✅ **Explainability** (clear reasoning + evidence-based output where applicable)
 - ✅ **Responsible AI** considerations (privacy + bias awareness)
 
 ## Tech & Approach
 - Prompt engineering for structured extraction + evaluation
 - Step-by-step decomposition (requirements → profile → scoring → recommendations)
-- Output formatting for readability and recruiter-friendly summaries
+- Output formatting for recruiter-friendly summaries
 
 ## Repository Structure (recommended)
 - `README.md` — project overview (this file)
